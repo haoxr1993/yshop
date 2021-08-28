@@ -50,7 +50,7 @@
         <knife4j.version>2.0.8</knife4j.version>
         <redisson.version>3.15.1</redisson.version>
         <logstash-logback-encoder.version>6.6</logstash-logback-encoder.version>
-        <elasticsearch.version>7.10.1</elasticsearch.version>
+        <elasticsearch.version>7.13.3</elasticsearch.version>
         <ip2region.version>1.7.2</ip2region.version>
         <dozer.version>6.2.0</dozer.version>
         <swagger.version>1.6.2</swagger.version>
